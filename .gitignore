@@ -23,3 +23,10 @@ __pycache__/
 # VS Code settings
 .vscode/
 *.docx
+
+# Ignore virtual environments
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
