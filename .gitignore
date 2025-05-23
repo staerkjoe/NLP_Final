@@ -31,3 +31,5 @@ __pycache__/
 .ipynb_checkpoints/
 
 /venv
+venv_ucloud/
+venv_ucloud/lib/python3.12/site-packages/astunparse-1.6.3.dist-info/top_level.txt
